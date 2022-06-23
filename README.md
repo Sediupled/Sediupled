@@ -4,7 +4,6 @@
 - 🐱‍👤 Now I have taken an interest in C# and currently studying it while figuring out game development on Unity
 - 🐱‍ I also am studying python in School atm
 - 📫 Just kinda made this account to put up some of the stuff I make in my time as a High school and Uni student
-- 
 
 <!---
 Sediupled/Sediupled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
