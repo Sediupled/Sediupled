@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sediupled
 - 📖 Trynna be regular rn
-- 🌱 At some point in my life I took an interest in Java and that flickering flame burns brighter now
+- 🌱 At some point in my life I took an interest in Java
 - 🐱‍👤 Now I code mainly in C# and im also doing game development on Unity
 - 🐱‍ I also understand basic python.
 - 📫 Just kinda made this account to put up some of the stuff I make in my time as a High school and Uni student
