@@ -1,2 +1,3 @@
-- Learning by Making
-- Made this account to put up some of the stuff I make in my time as a High school and Uni student.
+- A repository for my serious and casual projects
+- Highly Interested in Backend Development, Apps, Game Dev, Machine Learning and more
+- Learning by Building
