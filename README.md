@@ -11,7 +11,4 @@ Love to automate my life and mostly working on building software, web-apps and M
 ![](https://github-readme-stats.shion.dev/api?username=Sediupled&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Sediupled&theme=transparent&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sediupled&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
